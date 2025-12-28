@@ -10,13 +10,13 @@
   <a href="https://play.google.com/store/apps/details?id=com.passmancer.android">
     <img src="https://img.shields.io/badge/Google%20Play-Download-4A4A60?style=for-the-badge&logo=google-play&logoColor=white&labelColor=16161C" alt="Google Play">
   </a>
-  <img src="https://img.shields.io/badge/Version-1.5.0-4A4A60?style=for-the-badge&labelColor=16161C" alt="Version">
+  <img src="https://img.shields.io/badge/Version-2.0.0-4A4A60?style=for-the-badge&labelColor=16161C" alt="Version">
   <img src="https://img.shields.io/badge/Android-7.0+-4A4A60?style=for-the-badge&logo=android&logoColor=white&labelColor=16161C" alt="Android">
 </p>
 
 <p align="center">
   <a href="https://github.com/Pralhad-Nasane/PassMancer/releases">
-    <img src="https://img.shields.io/badge/Release-v1.5.0-4A4A60?style=for-the-badge&labelColor=16161C" alt="Release">
+    <img src="https://img.shields.io/badge/Release-v2.0.0-4A4A60?style=for-the-badge&labelColor=16161C" alt="Release">
   </a>
   <img src="https://img.shields.io/badge/License-Proprietary-4A4A60?style=for-the-badge&labelColor=16161C" alt="License">
 </p>
